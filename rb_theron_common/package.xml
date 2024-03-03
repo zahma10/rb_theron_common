@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package>
-  <name>rb_theron_common</name>
+  <name>robot2</name>
   <version>0.0.0</version>
-  <description>The rb_theron_common package. It contains rb_theron common packages used for robot control and for simulation</description>
+  <description>The ro package. It contains rb_theron common packages used for robot control and for simulation</description>
 
   <maintainer email="avillena@robotnik.es">Álvaro Villena</maintainer>
 
